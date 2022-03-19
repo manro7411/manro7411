@@ -1,8 +1,4 @@
--	# Ratchanon Traitiprat
--  👋 Hi, I'm Ratchanon Traitiprat Mickname : Nine.
-- I'm 19 years old. 
+-	# Hi, I'm Ratchanon Traitiprat
 - 👀 I’m interested in  part of front-End Develop
 - 🌱 I’m currently learning in Computer Science 
 - At king mongkut's university of technology thonburi
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
