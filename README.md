@@ -1,4 +1,4 @@
--	# Hi, I'm Ratchanon Traitiprat
+-	# Hi I'm Ratchanon Traitiprat
 - 👀 I’m interested in  part of front-End Develop
 - 🌱 I’m currently learning in Computer Science 
 - At king mongkut's university of technology thonburi
