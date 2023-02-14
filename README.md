@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Front-End , Back-End , Java & more
 - king mongkut's university of technology thonburi
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECEF7&center=true&vCenter=true&multiline=true&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manro7411&show_icons=true&theme=radical)
 
