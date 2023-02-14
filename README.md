@@ -1,5 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&duration=4000&pause=1000&color=2ECEF7&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=My+name+is+Ratchanon+Traitiprat;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Front-End+%2C+Back-End+%2C+Java+%26+more;king+mongkut's+university+of+technology+thonburi)](https://git.io/typing-svg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manro7411&show_icons=true&theme=radical)
+My name is Ratchanon Traitiprat
+🌱 I’m currently learning Front-End , Back-End , Java & more
+king mongkut's university of technology thonburi
+
+
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&duration=4000&pause=1000&color=2ECEF7&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=My+name+is+Ratchanon+Traitiprat;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Front-End+%2C+Back-End+%2C+Java+%26+more;king+mongkut's+university+of+technology+thonburi)](https://git.io/typing-svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manro7411&show_icons=true&theme=radical) -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manro7411&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
