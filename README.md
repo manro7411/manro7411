@@ -1,5 +1,5 @@
 -	# [!](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) 
--	# Hi I'm Ratchanon Traitiprat
+- Hi I'm Ratchanon Traitiprat
 - 🌱 I’m currently learning Front-End , Back-End , Java & more
 - king mongkut's university of technology thonburi
 
